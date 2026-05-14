@@ -1,1 +1,12 @@
+# Build artifacts
+build/
+bin/
+*.o
+*.d
+dijkstra
+
+# macOS
 .DS_Store
+
+# Editor
+.vscode/
